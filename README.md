@@ -1,7 +1,10 @@
 # PiCalculation-MonteCarloSimulation
  Pi Number Calculation with Monte Carlo Simulation and Plot
  
+ <img src="GGM1025.gif" width="600" />
+ 
  <img src="img2.png" width="600">
+ 
  
 ````
 import random
