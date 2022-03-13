@@ -1,7 +1,7 @@
 # PiCalculation-MonteCarloSimulation
  Pi Number Calculation with Monte Carlo Simulation and Plot
  
- <img src="img1.png" width="600">
+ <img src="img2.png" width="600">
  
 ````
 import random
